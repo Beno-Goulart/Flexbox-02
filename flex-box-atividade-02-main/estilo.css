@@ -71,13 +71,11 @@ h1 {
 
 .container-exercicioB {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    flex-direction: column-reverse;
 }
 
 .container-desafio {
     display: flex;
     justify-content: flex-start;
     flex-direction: row-reverse;
-    
 }
